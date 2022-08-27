@@ -6,7 +6,9 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 The objective of this challenge is for you to create multiple search criteria in addition to the date filter you created in this module. When a user enters the search criteria the `app.js` will store the element, value, and the id of the filter that was changed and then filter the dataset and keep only the data that matches search criteria. The search criteria will will be rendered on the webapge. 
 
-## Resulrs
+[Link to deployed webpage](https://alorenz465446.github.io/UFOs/)
+
+## Results
 
 ## Summary
 
