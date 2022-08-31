@@ -12,8 +12,14 @@ Create a dynamic webpage
 ## Results
 [Link to deployed webpage](https://alorenz465446.github.io/UFOs/)
 
+There is a description of how to perform a search, with images.
 
 ## Summary
+
+The summary addresses one drawback of this webpage (2 pt)
+The summary addresses two additional recommendations for further development (4 pt)
+
+possibly put a filter button for duration
 
 ### Resources
  * JavaScript
