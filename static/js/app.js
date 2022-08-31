@@ -77,12 +77,12 @@ function filterTable() {
   });
 
   // 10. Finally, rebuild the table using the filtered data
-
+  buildTable(filterData);
 }
 
 // 2. Attach an event to listen for changes to each filter
 // d3.selectAll("#filter-btn").on("click", handleClick);
-d3.selectALL("input").on("change", updateFilters());
+d3.selectAll("input").on("change", updateFilters);
 
 // Build the table when the page loads
 buildTable(tableData);
