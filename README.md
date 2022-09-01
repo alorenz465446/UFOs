@@ -15,6 +15,12 @@ To perform a search click on the link highlighted above. Once you have been dire
 
 From there you can put in criteria to search using all the filters or just one to render your results. There are suggestions in the filters already presented but you can search whatever date, city, state, country, and shape you desire. 
 
+For example purposes I am going to search for sighitngs in the state Arkansas. When entering the criteria in the filters, make sure it matches the id presented in the results or it will not register. So for the state Arkansas I will input 'ar' into the filter. Below is a picture of my results:
+
+<img width="934" alt="search_results_example" src="https://user-images.githubusercontent.com/107652317/187992702-5c67caf7-4ef7-4231-9cce-b6c9de8e1eba.PNG">
+
+
+
 ## Summary
 
 The summary addresses one drawback of this webpage (2 pt)
