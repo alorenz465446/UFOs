@@ -23,7 +23,7 @@ For example purposes I am going to search for sighitngs in the state Arkansas. W
 
 ## Summary & Advice 
 
-The webpage works well but a setback is having to be super specific with your search criteria or the results may not pop up. I would recommend combining some id tags (i.e., spheres and circles) together. Although the dimensions are different with spheres and circles, the shapes are still very similar. This would make the filtered search more user friendly and creating a broader list of sightings to look over. I would also recommend adding a filter for duration. Seeing as someone would want to look up the the amount of time a sighting took place.
+The webpage works well but a setback is having to be super specific with your search criteria or the results may not pop up. I would recommend combining some id tags (i.e., spheres, circles, and disks) together. Although the dimensions are different with spheres and circles, the shapes are still very similar. This would make the filtered search more user friendly and creating a broader list of sightings to look over. I would also recommend adding a filter for duration. Seeing as someone would want to look up the the amount of time a sighting took place.
 
 
 ### Resources
