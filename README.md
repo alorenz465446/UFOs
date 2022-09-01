@@ -8,25 +8,23 @@ Creating a dynamic webpage to provide a more in-depth analysis of UFO sightings 
 
 [Link to deployed webpage](https://alorenz465446.github.io/UFOs/)
 
-To perform a search click on the link highlighted above. Once you have been directed to the webpage you can scroll down and see the filtered search section. Should look like the image provided below.
+To perform a search click on the link highlighted above. Once you have been directed to the webpage you can scroll down and see the filtered search section onthe bottom left. Should look like the image provided below:
 
 
 <img width="229" alt="filter_search" src="https://user-images.githubusercontent.com/107652317/187988037-bb3999c9-6ccd-4be6-9bdf-8c9d6167db65.PNG">
 
-From there you can put in criteria to search using all the filters or just one to render your results. There are suggestions in the filters already presented but you can search whatever date, city, state, country, and shape you desire. 
+From there you can put input criteria to search using all the filters or just one to render your results. There are suggestions in the filters already presented but you can search whatever date, city, state, country, and shape you desire. 
 
-For example purposes I am going to search for sighitngs in the state Arkansas. When entering the criteria in the filters, make sure it matches the id presented in the results or it will not register. So for the state Arkansas I will input 'ar' into the filter. Below is a picture of my results:
+For example purposes I am going to search for sighitngs in the state Arkansas. When entering the criteria in the filters, make sure it matches the id presented in the results or it will not register. So for the state Arkansas I will input 'ar' into the state filter. Below is a picture of my results:
 
 
 <img width="937" alt="search_results_example" src="https://user-images.githubusercontent.com/107652317/187992881-a231f03c-0259-4971-9775-8bef18246ead.PNG">
 
 
-## Summary
+## Summary & Advice 
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+The webpage works well but a setback is having to be super specific with your search criteria or the results may not pop up. I would recommend combining some id tags (i.e., spheres and circles) together. Although the dimensions are different with spheres and circles, the shapes are still very similar. Making the filtered search more user friendly and creating a broader list of sightings. I would also reccomend adding a filter for duration. Seeing as maybe someone would want to look up the the amount of time a sighting took place.
 
-possibly put a filter button for duration
 
 ### Resources
  * JavaScript
