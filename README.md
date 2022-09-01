@@ -8,11 +8,12 @@ Creating a dynamic webpage to provide a more in-depth analysis of UFO sightings 
 
 [Link to deployed webpage](https://alorenz465446.github.io/UFOs/)
 
-To perform a search click on the link highlighted above. Once you have been directed to the webpage you can scroll down and see the filtered search section.
+To perform a search click on the link highlighted above. Once you have been directed to the webpage you can scroll down and see the filtered search section. Should look like the image provided below.
+
 
 <img width="229" alt="filter_search" src="https://user-images.githubusercontent.com/107652317/187988037-bb3999c9-6ccd-4be6-9bdf-8c9d6167db65.PNG">
 
-From there you can put in criteria to search using all the filters or just one to render your results. 
+From there you can put in criteria to search using all the filters or just one to render your results. There are suggestions in the filters already presented but you can search whatever date, city, state, country, and shape you desire. 
 
 ## Summary
 
