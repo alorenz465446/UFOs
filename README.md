@@ -27,5 +27,6 @@ The webpage works well but a setback is having to be super specific with your se
 
 
 ### Resources
+
  * JavaScript
  * Visual Studio Code
