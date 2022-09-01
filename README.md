@@ -17,8 +17,8 @@ From there you can put in criteria to search using all the filters or just one t
 
 For example purposes I am going to search for sighitngs in the state Arkansas. When entering the criteria in the filters, make sure it matches the id presented in the results or it will not register. So for the state Arkansas I will input 'ar' into the filter. Below is a picture of my results:
 
-<img width="934" alt="search_results_example" src="https://user-images.githubusercontent.com/107652317/187992702-5c67caf7-4ef7-4231-9cce-b6c9de8e1eba.PNG">
 
+<img width="937" alt="search_results_example" src="https://user-images.githubusercontent.com/107652317/187992881-a231f03c-0259-4971-9775-8bef18246ead.PNG">
 
 
 ## Summary
