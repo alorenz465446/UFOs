@@ -1,15 +1,27 @@
 # UFOs
-Analysis of UFO sightings using Java
 
 ## Overview
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+Creating a dynamic webpage to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Adding table filters for the date, city, state, country, and shape. When a user enters the search criteria the `app.js` will store the element, value, and the id of the filter that was changed and then filter the dataset and keep only the data that matches search criteria. The search criteria will will be rendered on the webapge. 
 
-The objective of this challenge is for you to create multiple search criteria in addition to the date filter you created in this module. When a user enters the search criteria the `app.js` will store the element, value, and the id of the filter that was changed and then filter the dataset and keep only the data that matches search criteria. The search criteria will will be rendered on the webapge. 
+
+## How It Works
 
 [Link to deployed webpage](https://alorenz465446.github.io/UFOs/)
 
-## Results
+To perform a search click on the link highlighted above. Once you have been directed to the webpage you can scroll down and see the filtered search section. Should look like the image provided below.
+
+
+<img width="229" alt="filter_search" src="https://user-images.githubusercontent.com/107652317/187988037-bb3999c9-6ccd-4be6-9bdf-8c9d6167db65.PNG">
+
+From there you can put in criteria to search using all the filters or just one to render your results. There are suggestions in the filters already presented but you can search whatever date, city, state, country, and shape you desire. 
 
 ## Summary
 
+The summary addresses one drawback of this webpage (2 pt)
+The summary addresses two additional recommendations for further development (4 pt)
+
+possibly put a filter button for duration
+
 ### Resources
+ * JavaScript
+ * Visual Studio Code
